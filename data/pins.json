@@ -1,0 +1,52 @@
+[
+	{
+		"name": "Universitas Siliwangi",
+		"latitude": -7.349762,
+		"longitude": 108.222928
+	},
+	{
+		"name": "Universitas Perjuangan",
+		"latitude": -7.352496,
+		"longitude": 108.224236
+	},
+	{
+		"name": "UPI Tasikmalaya",
+		"latitude": -7.336844,
+		"longitude": 108.224730
+	},
+	{
+		"name": "STIKes BTH Tasikmalaya",
+		"latitude": -7.347516,
+		"longitude": 108.231886
+	},
+	{
+		"name": "BSI Tasikmalaya",
+		"latitude": -7.328027,
+		"longitude": 108.227090
+	},
+	{
+		"name": "LP3I Tasikmalaya",
+		"latitude": -7.,
+		"longitude": 108.198777
+	},
+	{
+		"name": "STHG Tasikmalaya",
+		"latitude": -7.343702,
+		"longitude": 108.211989
+	},
+	{
+		"name": "STMIK Tasikmalaya",
+		"latitude": -7.306377,
+		"longitude": 108.207478
+	},
+	{
+		"name": "Politeknik Triguna Tasikmalaya",
+		"latitude": -7.300711,
+		"longitude": 108.202441
+	},
+	{
+		"name": "Universitas Muhammadiyah Tasikmalaya",
+		"latitude": -7.370451,
+		"longitude": 108.230927
+	}
+]
