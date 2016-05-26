@@ -3,7 +3,7 @@
     {
         "name": "Universitas Siliwangi",
         "species": "Jl. Siliwangi No.24 Tasikmalaya",
-        "description": "The reticulated giraffe (Giraffa camelopardalis reticulata), also known as the Somali giraffe, is a subspecies of giraffe native to Somalia, southern Ethiopia, and northern Kenya. Reticulated giraffes can interbreed with other giraffe subspecies in captivity or if they come into contact with populations of other subspecies in the wild. \nThe reticulated giraffe is among the most well-known of the nine giraffe subspecies. Together with the Rothschild giraffe, it is by far the giraffe most commonly seen in zoos. Its coat consists of large, polygonal, liver-colored spots outlined by a network of bright-white lines. The blocks may sometimes appear deep red and may also cover the legs. The extraordinary height of giraffes is attributed to a ritual known as \"necking\", where two males fight for reproduction rights by slamming their necks into one another. The giraffes with the tallest and strongest necks are victorious and allowed to reproduce, thus passing these genes on to future generations.",
+        "description": ["Status : Aktif","Perguruan Tinggi : Universitas Siliwangi","Tanggal Berdiri : 6 February 2008"],
         "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_univ_siliwangi.png",
         "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/unsil.jpg"
     },
