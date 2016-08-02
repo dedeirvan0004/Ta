@@ -138,5 +138,15 @@
 		"caption": "Politeknik Triguna Tasikmalaya adalah salah satu perguruan tinggi suasta yang berada di Tasikmakaya",
 		"latitude": -7.300590,
 		"longitude": 108.202367
+	},
+	{
+		"name": "Sekolah Tinggi Ilmu Kesehatan Respati",
+		"location": "Singaparna KM 11 Cikunir, Tasikmalaya",
+        "description": " Status : Aktif\n Perguruan Tinggi : Sekolah Tinggi Ilmu Kesehatan Respati\n Tanggal Berdiri : 08 Oktober 2002\n Nomor SK PT : 227DO2002\n Tanggal SK PT : 08 Oktober 2002\n Alamat : Singaparna KM 11 Cikunir, Tasikmalaya\n Kota/Kabupaten : Kota. Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46418\n Telepon : 0265-549335\n FaxiMile : 0265-549336\n Email : bayu.thira@gmail.com\n Website : www.stikesrespati.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_respati.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/respatih.jpg",
+		"caption": "Sekolah Tinggi Ilmu Kesehatan Respati adalah salah satu perguruan tinggi suasta yang berada di Tasikmakaya",
+		"latitude": -7.336855,
+		"longitude": 108.153958
 	}
 ]
