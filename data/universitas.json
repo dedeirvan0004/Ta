@@ -98,5 +98,15 @@
 		"caption": "Universitas Muhammadiyah Tasikmalaya adalah salah satu perguruan tinggi swasta yang berada di Tasikmalaya, Jawa Barat. Universitas ini berada di bawah naungan Yayasan Universitas Siliwangi",
 		"latitude": -7.366861,
 		"longitude": 108.228423
+	},
+	{
+		"name": "Sekolah Tinggi Hukum Galunggung",
+		"location": "Jl. KH. Lukmanul Hakim No.17, Tasikmalaya",
+        "description": " Status : Aktif\n Perguruan Tinggi : Sekolah Tinggi Hukum Galunggung\n Tanggal Berdiri : 10 Desember 1973\n Nomor SK PT : 3550DT2005\n Tanggal SK PT : 14 Oktober 2005\n Alamat : Jl.KH Lukmannul Hakim No.17\n Kota/Kabupaten : Kota Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46112\n Telepon : 0265-330092\n FaxiMile : 0265-330092\n Email : sth_galunggung@yahoo.co.id\n Website : www.sthg.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_univ_sthg.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/stgh.jpg",
+		"caption": "Sekolah Tinggi Hukum Galunggung Tasikmakaya (STHG) adalah salah satu perguruan tinggi suasta yang berada di Tasikmakaya",
+		"latitude": -7.343711,
+		"longitude": 108.212073
 	}
 ]
