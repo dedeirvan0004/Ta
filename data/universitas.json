@@ -36,8 +36,8 @@
         "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_univ_stik.png",
         "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/stik.jpg",
         "caption": "STIKes BTH Tasikmalaya adalah salah satu perguruan tinggi swasta yang berada di Tasikmalaya, Jawa Barat. Universitas ini berada di bawah naungan Yayasan Universitas Siliwangi",
-		"latitude": -7.347516,
-		"longitude": 108.231886
+		"latitude": -7.347668,
+		"longitude": 108.233712
 	},
 	{
 		"name": "BSI Tasikmalaya",
@@ -118,5 +118,25 @@
 		"caption": "Sekolah Tinggi Ilmu Ekonomi Cipasung adalah salah satu perguruan tinggi suasta yang berada di Tasikmakaya",
 		"latitude": -7.342980,
 		"longitude": 108.125206
+	},
+	{
+		"name": "LP3i Tasikmalaya",
+		"location": "Jl. Ir.H.Juanda, Bantarsari, Tasikmalaya",
+        "description": " Status : Aktif\n Perguruan Tinggi : LP3i Tasikmalaya\n Tanggal Berdiri : 1 Januari 1999\n Nomor SK PT : 3550DT2005\n Tanggal SK PT : 23 Juni 2006\n Alamat : Jl. Ir.H.Juanda, Bantarsari, Tasikmalaya\n Kota/Kabupaten : Kota. Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46417\n Telepon : 0265-546028\n FaxiMile : 0265-546028\n Email : lp3i_tasik@yahoo.co.id\n Website : www.lp3i.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_univ_lp3i.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/lp3i.jpg",
+		"caption": "LP3i Tasikmalaya adalah salah satu perguruan tinggi suasta yang berada di Tasikmakaya",
+		"latitude": -7.320618,
+		"longitude": 108.198414
+	},
+	{
+		"name": "Politeknik Triguna Tasikmalaya",
+		"location": "Jl. Raya Indihiang No.7, Tasikmalaya",
+        "description": " Status : Aktif\n Perguruan Tinggi : Politeknik Triguna Tasikmalaya\n Tanggal Berdiri : 21 Agustus 2008\n Nomor SK PT : 166DO2008\n Tanggal SK PT : 21 Agustus 2008\n Alamat : Jl. Raya Indihiang No.7, Tasikmalaya\n Kota/Kabupaten : Kota. Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46151\n Telepon : 0265-323232\n FaxiMile : 0265-323232\n Email : trigunatasik@poltektriguna.co.id\n Website : www.politekniktriguna.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_univ_triguna.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/triguna.png",
+		"caption": "Politeknik Triguna Tasikmalaya adalah salah satu perguruan tinggi suasta yang berada di Tasikmakaya",
+		"latitude": -7.300590,
+		"longitude": 108.202367
 	}
 ]
