@@ -108,5 +108,15 @@
 		"caption": "Sekolah Tinggi Hukum Galunggung Tasikmakaya (STHG) adalah salah satu perguruan tinggi suasta yang berada di Tasikmakaya",
 		"latitude": -7.343711,
 		"longitude": 108.212073
+	},
+	{
+		"name": "Sekolah Tinggi Ilmu Ekonomi Cipasung",
+		"location": "Jl. Muktamar NU No.29, Singaparna",
+        "description": " Status : Aktif\n Perguruan Tinggi : Sekolah Tinggi Ilmu Ekonomi Cipasung\n Tanggal Berdiri : 1 Januari 1999\n Nomor SK PT : 3550DT2005\n Tanggal SK PT : 23 Juni 2006\n Alamat : Jl. Muktamar NU No.29, Singaparna\n Kota/Kabupaten : Kab. Tasikmalaya-Prop.Jawa Barat-Indonesia\n Kode Pos : 46417\n Telepon : 0265-546028\n FaxiMile : 0265-546028\n Email : stie_cipasung@yahoo.co.id\n Website : www.stie_cipasung.ac.id",
+        "thumbnail": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/thumbnail_stle_cipasung.png",
+        "image": "https://raw.githubusercontent.com/dedeirvan0004/Ta/master/images/exhibits/stie_cipasung.png",
+		"caption": "Sekolah Tinggi Ilmu Ekonomi Cipasung adalah salah satu perguruan tinggi suasta yang berada di Tasikmakaya",
+		"latitude": -7.342980,
+		"longitude": 108.125206
 	}
 ]
